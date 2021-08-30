@@ -1,17 +1,14 @@
 [Desktop Entry]
-Name=Hello World
-Comment=A widget to take over the world!
-
+Comment=A widget to get prayer times based on your location
+Icon='./img/icon.png'
+Name=AdhanTimes
 Type=Service
-Icon=battery
-
+X-KDE-PluginInfo-Author=Fahim Shahriar
+X-KDE-PluginInfo-Category=Mapping
+X-KDE-PluginInfo-Email=shahriarfahim23@gmail.com
+X-KDE-PluginInfo-Name=com.github.AdhanTimes
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-Website=github.com/f4him/AdhanTimes
 X-KDE-ServiceTypes=Plasma/Applet
 X-Plasma-API=declarativeappletscript
 X-Plasma-MainScript=ui/main.qml
-
-X-KDE-PluginInfo-Author=Fahim Shahriar
-X-KDE-PluginInfo-Email=shahriarfahim23@gmail.com
-X-KDE-PluginInfo-Name=com.github.f4him.hello
-X-KDE-PluginInfo-Version=1
-X-KDE-PluginInfo-Website=f4him.github.io
-X-KDE-PluginInfo-Category=Mapping
