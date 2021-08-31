@@ -13,3 +13,5 @@ This program uses the following API: https://prayertimes.date/api/docs/today
 ☐ Add countdown for next waqt
 
 ☐ Random help texts
+
+☐ Theme color picker
